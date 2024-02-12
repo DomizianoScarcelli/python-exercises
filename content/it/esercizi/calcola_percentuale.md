@@ -1,18 +1,15 @@
 +++
 author = "Domiziano Scarcelli"
-title = "Lista dei primi n numeri"
-date = "2019-03-11"
-description = "Ritornare lista contenente i primi n numeri"
+title = "Calcola Percentuale"
 categories = [
-    "",
+    "Difficoltà 0",
 ]
 tags = [
-    "markdown",
-    "text",
+    "operazioni-aritmetiche",
 ]
 +++
 
-Ritornare lista contenente i primi n numeri
+Calcola la percentuale di un certo numero.
 <!--more-->
 
 Scrivere una funzione che prende in input due parametri: `numero` e `percentuale`. Percentuale deve essere un numero da 0 a 100 La funzione ritorna la `percentuale` di `numero`.

@@ -1,14 +1,12 @@
 +++
 author = "Domiziano Scarcelli"
 title = "Aggiungi stringa a lista"
-date = "2019-03-11"
-description = "Aggiungi stringa a lista."
 categories = [
-    "",
+    "Difficoltà 0",
 ]
 tags = [
-    "markdown",
-    "text",
+    "liste",
+    "stringhe",
 ]
 +++
 
