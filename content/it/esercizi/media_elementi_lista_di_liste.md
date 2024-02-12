@@ -8,9 +8,9 @@ tags = [
     "for-loops",
     "liste-di-liste"
 ]
-+++
 
-Si definisca una funzione che prende in input una lista di liste (generica) che contiene interi, e che ritorni la media del valore degli elementi all’interno.
++++
+Si definisca una funzione che prende in input una lista di liste (non necessariamente una matrice) che contiene interi, e che ritorni la media del valore degli elementi all’interno.
 
 ```python
 lista_liste = [[1,2,3,1,3,4],
