@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "Conta lettere in stringa"
+title = "0.8 - Conta lettere in stringa"
 categories = [
     "Difficoltà 0",
 ]

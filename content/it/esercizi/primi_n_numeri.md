@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "Lista dei primi n numeri"
+title = "0.2 - Lista dei primi n numeri"
 categories = [
     "Difficoltà 0",
 ]

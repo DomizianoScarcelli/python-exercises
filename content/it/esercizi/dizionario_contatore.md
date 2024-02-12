@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "Dizionario contatore di parola a partire da un testo"
+title = "1.3 - Dizionario contatore di parola a partire da un testo"
 categories = [
     "Difficoltà 1",
 ]

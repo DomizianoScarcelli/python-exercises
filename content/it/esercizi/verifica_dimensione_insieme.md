@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "Verifica dimensione insieme"
+title = "0.9 - Verifica dimensione insieme"
 categories = [
     "Difficoltà 0",
 ]

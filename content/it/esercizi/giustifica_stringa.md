@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "Giustifica stringa"
+title = "0.5 - Giustifica stringa"
 categories = [
     "Difficoltà 0",
 ]

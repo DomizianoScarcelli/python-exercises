@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "Sostituisci elemento in lista"
+title = "0.90 - Sostituisci elemento in lista"
 categories = [
     "Difficoltà 0",
 ]
