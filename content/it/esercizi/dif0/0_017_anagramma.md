@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "0.97 - Verifica Anagramma"
+title = "0.017 - Verifica Anagramma"
 categories = [
     "Difficoltà 0",
 ]

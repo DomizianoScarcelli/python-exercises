@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "0.93 - Somma valori di un dizionario"
+title = "0.012 - Somma valori di un dizionario"
 categories = [
     "Difficoltà 0",
 ]

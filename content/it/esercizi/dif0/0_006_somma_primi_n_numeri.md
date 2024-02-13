@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "0.6 - Somma primi n numeri"
+title = "0.006 - Somma primi n numeri"
 categories = [
     "Difficoltà 0",
 ]

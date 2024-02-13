@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "0.91 - Funzione per stampare dizionario"
+title = "0.016 - Funzione per stampare dizionario"
 categories = [
     "Difficoltà 0",
 ]

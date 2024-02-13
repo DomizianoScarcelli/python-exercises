@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "0.94 - Inverti dizionario"
+title = "0.013 - Inverti dizionario"
 categories = [
     "Difficoltà 0",
 ]

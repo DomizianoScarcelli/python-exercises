@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "2.1 - Converti immagine in bianco e nero"
+title = "2.001 - Converti immagine in bianco e nero"
 categories = [
     "Difficoltà 2",
 ]

@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "0.96 - Funzione lambda media"
+title = "0.015 - Funzione lambda media"
 categories = [
     "Difficoltà 0",
 ]

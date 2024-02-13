@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "0.95 - Funzione lambda somma"
+title = "0.014 - Funzione lambda somma"
 categories = [
     "Difficoltà 0",
 ]

@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "0.3 - Aggiungi stringa a lista"
+title = "0.003 - Aggiungi stringa a lista"
 categories = [
     "Difficoltà 0",
 ]

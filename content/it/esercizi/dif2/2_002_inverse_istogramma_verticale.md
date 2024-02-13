@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "2.2 - Da istogramma orizzontale a lista"
+title = "2.002 - Da istogramma orizzontale a lista"
 categories = [
     "Difficoltà 2",
 ]

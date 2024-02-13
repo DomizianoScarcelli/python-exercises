@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "0.1 - Calcola Percentuale"
+title = "0.001 - Calcola Percentuale"
 categories = [
     "Difficoltà 0",
 ]

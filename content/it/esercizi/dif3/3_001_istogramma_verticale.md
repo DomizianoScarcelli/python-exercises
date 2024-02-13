@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "3.1 - Istogramma Verticale"
+title = "3.001 - Istogramma Verticale"
 categories = [
     "Difficoltà 3",
 ]
