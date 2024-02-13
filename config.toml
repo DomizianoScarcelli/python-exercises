@@ -98,7 +98,7 @@ unsafe = true
 
   [services.twitter]
     disableInlineCSS = true
-defaultContentLanguage = 'en'
+defaultContentLanguage = 'it'
 defaultContentLanguageInSubdir = true
 [languages]
   [languages.it]
