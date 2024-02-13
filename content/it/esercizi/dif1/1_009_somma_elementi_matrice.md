@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "1.9 - Somma elementi matrice"
+title = "1.009 - Somma elementi matrice"
 categories = [
     "Difficoltà 1",
 ]

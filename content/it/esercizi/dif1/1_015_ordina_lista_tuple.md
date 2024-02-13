@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "1.96 - Ordina lista di tuple"
+title = "1.015 - Ordina lista di tuple"
 categories = [
     "Difficoltà 1",
 ]

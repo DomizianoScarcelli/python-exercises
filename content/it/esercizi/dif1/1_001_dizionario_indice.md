@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "1.1 - Dizionario indice"
+title = "1.001 - Dizionario indice"
 categories = [
     "Difficoltà 1",
 ]

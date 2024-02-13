@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "1.98 - Verifica Parentesi"
+title = "1.017 - Verifica Parentesi"
 categories = [
     "Difficoltà 1",
 ]

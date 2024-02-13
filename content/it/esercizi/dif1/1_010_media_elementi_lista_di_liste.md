@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "1.91 - Media elementi lista di liste"
+title = "1.010 - Media elementi lista di liste"
 categories = [
     "Difficoltà 1",
 ]

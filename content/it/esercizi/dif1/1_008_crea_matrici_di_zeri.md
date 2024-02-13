@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "1.8 - Crea matrici di zeri"
+title = "1.008 - Crea matrici di zeri"
 categories = [
     "Difficoltà 1",
 ]

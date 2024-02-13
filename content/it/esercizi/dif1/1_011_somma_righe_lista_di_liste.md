@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "1.92 - Somma delle righe di una lista di liste"
+title = "1.011 - Somma delle righe di una lista di liste"
 categories = [
     "Difficoltà 1",
 ]

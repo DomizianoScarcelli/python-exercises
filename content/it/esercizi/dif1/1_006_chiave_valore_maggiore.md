@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "1.6 - Chiave con valore di lunghezza maggiore"
+title = "1.006 - Chiave con valore di lunghezza maggiore"
 categories = [
     "Difficoltà 1",
 ]

@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "1.97 - Ordina elementi dizionario"
+title = "1.016 - Ordina elementi dizionario"
 categories = [
     "Difficoltà 1",
 ]

@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "1.4 - Stampa rettangolo"
+title = "1.004 - Stampa rettangolo"
 categories = [
     "Difficoltà 1",
 ]

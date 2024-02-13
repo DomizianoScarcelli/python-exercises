@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "1.7 - Calcola diagonale matrice quadrata"
+title = "1.007 - Calcola diagonale matrice quadrata"
 categories = [
     "Difficoltà 1",
 ]

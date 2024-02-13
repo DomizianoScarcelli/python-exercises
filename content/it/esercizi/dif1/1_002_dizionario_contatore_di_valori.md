@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "1.2 - Dizionario contatore di valori"
+title = "1.002 - Dizionario contatore di valori"
 categories = [
     "Difficoltà 1",
 ]

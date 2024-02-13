@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "1.93 - Decora Stringa"
+title = "1.012 - Decora Stringa"
 categories = [
     "Difficoltà 1",
 ]
