@@ -1,12 +1,7 @@
 [The translation in english is a Work in Progress]
 
 # Esercizi in Python
-
-Nel sito sono presenti vari esercizi in Python, divisi per difficoltà, che si trovano in [./esercizi](/esercizi), mentre sono suddivisi per argomento in [./argomenti](/tags).
-
-Per capire la difficoltà dell'esercizio in ogni momento, il nome segue questa convenzione:
-
-`[difficoltà]-[numero_esercizio]-[nome_esercizio]`
+Questa è la repository per il sito [Python Exercises](https://python-exercises.netlify.app) pubblicato con Netlify. Contiene vari esercizi Python divisi per difficoltà ed argomento.
 
 # Licensa
 Il sito ed il suoi contenuti sono disponibili nella relativa repository [GitHub](https://github.com/DomizianoScarcelli/python-exercises). Tutti gli esercizi sono stati scritti da Domiziano Scarcelli, e licenziati con la licenza Creative Commons Attribution-NonCommercial ([CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.en)).
