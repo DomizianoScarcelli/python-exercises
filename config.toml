@@ -48,11 +48,11 @@ url = "https://github.com/DomizianoScarcelli/python-exercises"
 
 # [menu]
 
-#   [[menu.main]]
-#     identifier = "about"
-#     name = "About"
-#     url = "/about/"
-#     weight = 10
+  [[menu.main]]
+    identifier = "argomenti"
+    name = "argomenti"
+    url = "/tags/"
+    weight = 10
 
 [taxonomies]
 category = "categories"

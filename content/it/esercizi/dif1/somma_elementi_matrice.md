@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "1.9 - Somma matrice di zeri"
+title = "1.9 - Somma elementi matrice"
 categories = [
     "Difficoltà 1",
 ]
@@ -15,8 +15,8 @@ Si definisca una funzione che prende in input una matrice `matrice` e che ritorn
 
 ```python
 matrice = [[1,2,3],
-					[1,0,0],
-					[2,5,3]]
+			[1,0,0],
+			[2,5,3]]
 somma_lista_liste(matrice) #Ritorna 17
 ```
 
