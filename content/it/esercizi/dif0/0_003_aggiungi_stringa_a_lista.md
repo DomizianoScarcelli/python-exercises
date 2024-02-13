@@ -10,9 +10,6 @@ tags = [
 ]
 +++
 
-Aggiungi stringa a lista.
-<!--more-->
-
 Scrivere una funzione che prende in input una lista `lista` ed una stringa `stringa` e ritorna la lista con in aggiunta alla fine tale stringa.
 
 Esempio:

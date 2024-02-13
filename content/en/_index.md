@@ -1,0 +1,1 @@
+English translation is Work in Progress, I'm sorry :(

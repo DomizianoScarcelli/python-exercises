@@ -10,9 +10,6 @@ tags = [
 ]
 +++
 
-Ritornare lista contenente i primi n numeri
-<!--more-->
-
 Scrivere una funzione che prende in input un numero `n`, e ritorna una lista i cui elementi sono i numeri che vanno da `1` ad `n` compresi.
 
 Esempio:

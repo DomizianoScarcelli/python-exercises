@@ -9,9 +9,6 @@ tags = [
 ]
 +++
 
-Calcola la percentuale di un certo numero.
-<!--more-->
-
 Scrivere una funzione che prende in input due parametri: `numero` e `percentuale`. Percentuale deve essere un numero da 0 a 100 La funzione ritorna la `percentuale` di `numero`.
 
 
