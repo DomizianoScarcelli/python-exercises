@@ -1,7 +1,7 @@
 [The translation in english is a Work in Progress]
 
 # Esercizi in Python
-Questa è la repository per il sito [Python Exercises](https://python-exercises.netlify.app) pubblicato con Netlify. Contiene vari esercizi Python divisi per difficoltà ed argomento.
+Questa è la repository per il sito [Python Exercises](https://python-exercises.netlify.app) pubblicato con Netlify usando [Hugo](https://gohugo.io/) con il tema [risotto](https://github.com/joeroe/risotto). Contiene vari esercizi Python divisi per difficoltà ed argomento.
 
 # Licensa
 Il sito ed il suoi contenuti sono disponibili nella relativa repository [GitHub](https://github.com/DomizianoScarcelli/python-exercises). Tutti gli esercizi sono stati scritti da Domiziano Scarcelli, e licenziati con la licenza Creative Commons Attribution-NonCommercial ([CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.en)).
