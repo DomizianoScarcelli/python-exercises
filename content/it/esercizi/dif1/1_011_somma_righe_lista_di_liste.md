@@ -1,5 +1,5 @@
 +++
-author = "Domiziano Scarcelli"
+author = "Alessio Lucciola"
 title = "1.011 - Somma delle righe di una lista di liste"
 categories = [
     "Difficoltà 1",
@@ -19,6 +19,13 @@ lista_somma_righe(lista_liste) #Ritorna la lista [14,1,5]
 
 <details>
 <summary>Mostra la soluzione</summary>
-> TODO: Da inserire
+
+```python
+def lista_somma_righe(lista_liste):
+    somma_finale = []
+    for riga in lista_liste:
+        somma_finale.append(sum(riga))
+    return somma_finale
+```
 
 </details>
