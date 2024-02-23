@@ -43,5 +43,13 @@ $$
 <details>
 <summary>Mostra la soluzione</summary>
 
->TODO: da fare
+```python
+#Soluzione: Alessio Lucciola
+def regolarize_matrix(matrix):
+    longest_row = max(map(len, matrix))
+    for index, row in enumerate(matrix):
+        digits_to_add = longest_row - len(row)
+        matrix[index].extend([0] * digits_to_add)
+    return matrix
+```
 </details>
