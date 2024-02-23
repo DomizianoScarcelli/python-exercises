@@ -31,7 +31,25 @@ lista_intercalata(lista1, lista2) # Ritorna [1, 4, 2, 5, 3, 6, 4, 5, 6, 7, 8]
 
 <details>
 <summary>Mostra la soluzione</summary>
->TODO: da fare
+
+```python
+#Soluzione: Alessio Lucciola
+def lista_intercalata(list1, list2):
+    final_list = []
+    for i in range(min(len(list1), len(list2))):
+        final_list.append(list1[i])
+        final_list.append(list2[i])
+    return final_list
+
+def lista_intercalata_extra(list1, list2):
+    final_list = lista_intercalata(list1, list2)
+    if (len(list1) > len(list2)):
+        final_list.extend(list1[len(list2):])
+    else:
+        final_list.extend(list2[len(list1):])
+
+    return final_list
+```
 
 </details>
 
