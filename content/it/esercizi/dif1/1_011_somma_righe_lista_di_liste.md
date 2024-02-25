@@ -19,6 +19,14 @@ lista_somma_righe(lista_liste) #Ritorna la lista [14,1,5]
 
 <details>
 <summary>Mostra la soluzione</summary>
-> TODO: Da inserire
+
+```python
+# Soluzione: Alessio Lucciola
+def lista_somma_righe(lista_liste):
+    somma_finale = []
+    for riga in lista_liste:
+        somma_finale.append(sum(riga))
+    return somma_finale
+```
 
 </details>
