@@ -22,5 +22,14 @@ media_lista_liste(lista_liste) #Ritorna 2.222 (20/9)
 <details>
 <summary>Mostra la soluzione</summary>
 
-> TODO: da inserire
+```python
+#Soluzione: Alessio Lucciola
+def media_lista_liste(lista_liste):
+    somma_valori = 0
+    numero_elementi = 0
+    for lista in lista_liste:
+        numero_elementi += len(lista)
+        somma_valori += sum(lista)
+    return somma_valori/numero_elementi
+```
 </details>
