@@ -39,5 +39,16 @@ Come vedi, nella riga all’indice $0$ è presente l’$1$ nell’indice $1$, pe
 <details>
 <summary>Mostra la soluzione</summary>
 
->TODO: da fare
+```python
+#Solutione: Alessio Lucciola
+def permutation_matrix(list):
+    final_matrix = []
+    list_len = len(list)
+    for el in list:
+        row = [0]*list_len
+        row[el] = 1
+        final_matrix.append(row)
+    return final_matrix
+```
+
 </details>
