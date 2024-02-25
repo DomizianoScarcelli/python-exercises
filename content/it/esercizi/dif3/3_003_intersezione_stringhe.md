@@ -43,5 +43,13 @@ benevolo
 <details>
 <summary>Mostra la soluzione</summary>
 
->TODO: da fare
+```python
+#Soluzione: Alessio Lucciola
+def intersezione_stringhe(stringa1, stringa2):
+    stringa_finale = ""
+    for i in range(min(len(stringa1), len(stringa2))):
+        if stringa1[i] == stringa2[i]:
+            stringa_finale += stringa1[i]
+    return stringa_finale
+```
 </details>
