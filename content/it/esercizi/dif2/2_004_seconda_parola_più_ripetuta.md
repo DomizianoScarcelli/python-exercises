@@ -21,7 +21,18 @@ seconda_ripetuta(testo) #Ritorna "occhiali", che viene ripetuta 2 volte. La più
 
 <details>
 <summary>Mostra la soluzione</summary>
->TODO: da fare
 
+```python
+#Soluzione: Alessio Lucciola
+def seconda_ripetuta(string):
+    parsed_string = "".join(l for l in string if (l.isalpha() or l == " ")).lower().split()
+    word_count = {}
+    for word in parsed_string:
+        if word in word_count:
+            word_count[word] += 1
+        else:
+            word_count[word] = 1
+    return sorted(word_count, key=word_count.get, reverse=True)[1]
+```
 </details>
 
