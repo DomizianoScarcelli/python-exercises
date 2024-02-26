@@ -19,5 +19,8 @@ somma_diz(diz) #Ritorna il valore 15
 <details>
 <summary>Mostra la soluzione</summary>
 
->TODO: da inserire
+```python
+def somma_diz(diz):
+    return sum(diz.values())
+```
 </details>
