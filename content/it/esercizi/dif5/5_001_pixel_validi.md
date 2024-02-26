@@ -2,8 +2,8 @@
 author = "Domiziano Scarcelli"
 title = "5.001 - Conta pixel validi in immagine"
 categories = [ "Difficoltà 5",]
-tags = ["immagini",]
-date = "2024-02-26T12:21:52+01:00"
+tags = [ "immagini",]
+date = "2024-02-26T14:06:20+01:00"
 +++
 [Scarica qui i file necessari per risolvere l'esercizio](/exercises_py/it/5_001_pixel_validi.zip)
 
