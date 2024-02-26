@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "3.001 - Istogramma Verticale"
 categories = [ "Difficoltà 3",]
 tags = [ "for-loops", "stringhe",]
-date = "2024-02-13"
+date = "2024-02-13T20:45:38+01:00"
 +++
 
 Si definisca una funzione che fa lo stesso lavoro della funzione precedente, però ritorna l’istogramma verticale, nel senso che le barre si sviluppano in vericale e non in orizzontale.

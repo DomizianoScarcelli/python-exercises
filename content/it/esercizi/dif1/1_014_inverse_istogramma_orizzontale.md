@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "1.014 - Da istogramma orizzontale a lista"
 categories = [ "Difficoltà 1",]
 tags = [ "for-loops", "stringhe", "liste",]
-date = "2024-02-13"
+date = "2024-02-13T20:39:12+01:00"
 +++
 
 Si definisca una funzione che effettua l’inverso della funzione vista all’esercizio 2, ovvero prende in input una stringa che rappresenta un istogramma orizzontale, e ritorna la lista che modella tale istogramma.

@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "2.006 - Ordina stringa per mappatura"
 categories = [ "Difficoltà 2",]
 tags = [ "stringhe", "ordinamento", "dizionari",]
-date = "2024-02-26"
+date = "2024-02-25T21:01:47+01:00"
 +++
 [Scarica QUI i file necessari per risolvere l'esercizio.](/assets/exercises_py/it/2_007_somma_nodi_negativi.py)
 

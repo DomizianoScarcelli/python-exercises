@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "2.008 - Chiavi dizionario innestato"
 categories = [ "Difficoltà 2",]
 tags = [ "dizionari", "ricorsione",]
-date = "2024-02-26"
+date = "2024-02-26T11:27:05+01:00"
 +++
 
 [Scarica qui i file necessari per risolvere l'esercizio](/exercises_py/it/2_008_chiavi_dizionario_innestato.zip)

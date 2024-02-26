@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "4.001 - Rappresenta directory con dizionario"
 categories = [ "Difficoltà 4",]
 tags = [ "dizionari", "ricorsione",]
-date = "2024-02-26"
+date = "2024-02-26T12:21:52+01:00"
 +++
 [Scarica qui i file necessari per risolvere l'esercizio](/exercises_py/it/4_001_rappresenta_directory.zip)
 

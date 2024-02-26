@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "1.006 - Chiave con valore di lunghezza maggiore"
 categories = [ "Difficoltà 1",]
 tags = [ "liste", "dizionari",]
-date = "2024-02-13"
+date = "2024-02-13T20:39:12+01:00"
 +++
 
 Si definisca una funzione che prende in input un dizionario `diz` che associa ad ogni intero un insieme, e ritorna la chiave che ha l’insieme di lunghezza maggiore. Si assuma che esista una sola chiave con valore di lunghezza maggiore rispetto alle altre chiavi.

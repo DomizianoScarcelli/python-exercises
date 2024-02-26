@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "3.007 - Indice file txt"
 categories = [ "Difficoltà 3",]
 tags = [ "dizionari", "ricorsione",]
-date = "2024-02-26"
+date = "2024-02-26T12:21:52+01:00"
 +++
 [Scarica qui i file necessari per risolvere l'esercizio](/exercises_py/it/3_007_indice_file_txt.zip)
 

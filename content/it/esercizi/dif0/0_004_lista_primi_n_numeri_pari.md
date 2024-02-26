@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "0.004 - Lista dei primi n numeri pari"
 categories = [ "Difficoltà 0",]
 tags = [ "for-loops", "liste",]
-date = "2024-02-13"
+date = "2024-02-13T20:45:38+01:00"
 +++
 
 Scrivere una funzione che prende in input un numero `n`, e ritorna una lista i cui elementi **pari** sono i numeri che vanno da `1` ad `n` compresi.

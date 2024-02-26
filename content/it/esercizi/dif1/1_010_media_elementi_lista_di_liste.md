@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "1.010 - Media elementi lista di liste"
 categories = [ "Difficoltà 1",]
 tags = [ "for-loops", "liste-di-liste",]
-date = "2024-02-25"
+date = "2024-02-13T20:39:12+01:00"
 +++
 Si definisca una funzione che prende in input una lista di liste (non necessariamente una matrice) che contiene interi, e che ritorni la media del valore degli elementi all’interno.
 

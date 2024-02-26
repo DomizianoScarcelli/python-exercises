@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "1.001 - Dizionario indice"
 categories = [ "Difficoltà 1",]
 tags = [ "dizionari", "stringhe",]
-date = "2024-02-13"
+date = "2024-02-13T20:39:12+01:00"
 +++
 Si definisca una funzione che prende in input una lista di interi e ritorni un dizionario in cui le chiavi sono gli indici della lista (che vanno da 0 a len(lista)-1) ed il valore associato a ciascuna chiave è l’elemento presente a quell’indice nella lista.
 

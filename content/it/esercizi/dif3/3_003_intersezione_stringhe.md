@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "3.003 - Intersezione tra stringhe"
 categories = [ "Difficoltà 3",]
 tags = [ "stringhe", "for-loops",]
-date = "2024-02-25"
+date = "2024-02-14T11:09:03+01:00"
 +++
 
 Si definisca una funzione che prende in input due stringhe e ritorni la stringa formata dai caratteri che nella posizione $j$ appaiono in entrambe le stringhe.

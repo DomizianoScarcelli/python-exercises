@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "2.009 - Conta intervallo stringa"
 categories = [ "Difficoltà 2",]
 tags = [ "stringhe",]
-date = "2024-02-26"
+date = "2024-02-26T12:21:52+01:00"
 +++
 
 Si definisca una funzione che prende in input una stringa di caratteri, due

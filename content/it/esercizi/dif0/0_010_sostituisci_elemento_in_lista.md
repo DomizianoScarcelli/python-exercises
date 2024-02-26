@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "0.010 - Sostituisci elemento in lista"
 categories = [ "Difficoltà 0",]
 tags = [ "liste",]
-date = "2024-02-13"
+date = "2024-02-13T20:45:38+01:00"
 +++
 
 Scrivere una funzione che prenda in input tre parametri:

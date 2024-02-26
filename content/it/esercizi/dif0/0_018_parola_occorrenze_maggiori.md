@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "0.018 - Trova parola con occorrenze singole maggiori"
 categories = [ "Difficoltà 0",]
 tags = [ "stringhe", "lambda",]
-date = "2024-02-14"
+date = "2024-02-14T11:09:03+01:00"
 +++
 Si definisca una funzione che prende in input una lista di stringhe, e ritorna la stringa che ha il maggior numero di caratteri unici.
 

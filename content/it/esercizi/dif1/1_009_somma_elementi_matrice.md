@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "1.009 - Somma elementi matrice"
 categories = [ "Difficoltà 1",]
 tags = [ "liste", "matrici", "for-loops",]
-date = "2024-02-13"
+date = "2024-02-13T20:39:12+01:00"
 +++
 
 Si definisca una funzione che prende in input una matrice `matrice` e che ritorna la somma di tutti gli elementi all’interno di `matrice`.

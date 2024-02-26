@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "1.003 - Dizionario contatore di parola a partire da un testo"
 categories = [ "Difficoltà 1",]
 tags = [ "dizionari", "stringhe",]
-date = "2024-02-13"
+date = "2024-02-13T20:39:12+01:00"
 +++
 Si definisca una funzione che, presa in input una stringa che rappresenta un testo (che non contiene punteggiatura, ma che può contenere parole con maiuscole), ritorni un dizionario che associ ad ogni parola le volte che questa è presente all’interno del testo.
 

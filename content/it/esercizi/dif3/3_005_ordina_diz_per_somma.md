@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "3.005 - Ordina dizionario per somma"
 categories = [ "Difficoltà 3",]
 tags = [ "dizionari", "lambda", "ordinamento",]
-date = "2024-02-26"
+date = "2024-02-25T21:01:47+01:00"
 +++
 
 La funzione prende in input un dizionario le cui chiavi sono interi ed i valori sono liste di dizionari (chiavi: interi, valori: liste di interi). Ritorna gli elementi (items) del dizionario ordinati in maniera crescente secondo tale criterio:

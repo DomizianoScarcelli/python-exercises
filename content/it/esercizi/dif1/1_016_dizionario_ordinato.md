@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "1.016 - Ordina elementi dizionario"
 categories = [ "Difficoltà 1",]
 tags = [ "lambda", "ordinamento",]
-date = "2024-02-13"
+date = "2024-02-13T20:39:12+01:00"
 +++
 Si deve ordinare un dizionario che associa stringhe a liste.
 

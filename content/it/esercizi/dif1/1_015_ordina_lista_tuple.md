@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "1.015 - Ordina lista di tuple"
 categories = [ "Difficoltà 1",]
 tags = [ "lambda", "ordinamento",]
-date = "2024-02-13"
+date = "2024-02-13T20:39:12+01:00"
 +++
 Si scriva una funzione lambda da usare come chiave di ordinamento per ordinare una lista di tuple rispetto al secondo valore.
 

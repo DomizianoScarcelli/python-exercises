@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "0.017 - Verifica Anagramma"
 categories = [ "Difficoltà 0",]
 tags = [ "stringhe",]
-date = "2024-02-13"
+date = "2024-02-13T20:45:38+01:00"
 +++
 Scrivere una funzione che prende in input due stringhe e ritorna True se sono due anagrammi, False altrimenti.
 

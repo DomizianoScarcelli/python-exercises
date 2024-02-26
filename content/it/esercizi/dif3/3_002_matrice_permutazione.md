@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "3.002 - Matrice di Permutazione"
 categories = [ "Difficoltà 3",]
 tags = [ "matrici", "liste", "for-loops",]
-date = "2024-02-25"
+date = "2024-02-14T11:09:03+01:00"
 +++
 
 Si definisca una funzione che prende in input una lista lunga $n$ uguale alla `lista_permutazione` vista nell’esercizio 3, ovvero i cui elementi sono definiti nel range $[0, n-1]$ e che appaiono una sola volta in tale lista.

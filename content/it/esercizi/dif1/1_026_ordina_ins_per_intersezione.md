@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "1.026 - Ordina insiemi per intersezione"
 categories = [ "Difficoltà 1",]
 tags = [ "ordinamento", "lambda", "insiemi",]
-date = "2024-02-26"
+date = "2024-02-26T11:12:33+01:00"
 +++
 
 La funzione prende in input una lista di insiemi ed un insieme. Ritorna la lista di insiemi ordinata in maniera crescente secondo il numero di elementi in comune con l'insieme in input.

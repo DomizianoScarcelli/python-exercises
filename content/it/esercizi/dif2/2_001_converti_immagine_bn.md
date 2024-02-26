@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "2.001 - Converti immagine in bianco e nero"
 categories = [ "Difficoltà 2",]
 tags = [ "matrici", "immagini",]
-date = "2024-02-13"
+date = "2024-02-13T20:45:38+01:00"
 +++
 Un immagine può essere modellata tramite una matrice i cui elementi sono tuple della forma $(r,g,b)$ che modellano i singoli pixel in cui, per ogni tupla (pixel) $r$ è la quantità di rosso, $g$ è la quantità di verde e $b$ è la quantità di blu. 
 

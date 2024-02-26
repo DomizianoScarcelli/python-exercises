@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "0.007 - Lista di lettere"
 categories = [ "Difficoltà 0",]
 tags = [ "liste", "stringhe",]
-date = "2024-02-13"
+date = "2024-02-13T20:45:38+01:00"
 +++
 
 Si scriva una funzione che prende in input una stringa `stringa` formata da soli caratteri minuscoli (non ci sono lettere maiuscole) e che ritorni una lista contenente le lettere, in modo che nella lista non ci siano ripetizioni. L’ordine all’interno della lista non è importante. 

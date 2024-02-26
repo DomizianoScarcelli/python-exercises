@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "1.007 - Calcola diagonale matrice quadrata"
 categories = [ "Difficoltà 1",]
 tags = [ "liste", "matrici",]
-date = "2024-02-13"
+date = "2024-02-13T20:39:12+01:00"
 +++
 
 Si definisca una funzione che prende in input una **matrice quadrata** (lista di liste tutte della stessa dimensione e dove base = altezza) e che torni la somma della diagonale principale.

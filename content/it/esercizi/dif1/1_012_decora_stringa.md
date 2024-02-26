@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "1.012 - Decora Stringa"
 categories = [ "Difficoltà 1",]
 tags = [ "stringhe",]
-date = "2024-02-13"
+date = "2024-02-13T20:39:12+01:00"
 +++
 
 Si scriva una funzione `decora_stringa` che, presa in input una stringa su una sola riga (nel senso che non sono presenti caratteri di accapo `\n`) ritorni la stringa “decorata” dal carattere “#” così come si vede nell’esempio.

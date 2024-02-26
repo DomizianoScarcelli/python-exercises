@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "1.005 - Primi N numeri primi"
 categories = [ "Difficoltà 1",]
 tags = [ "for-loops", "liste",]
-date = "2024-02-13"
+date = "2024-02-13T20:39:12+01:00"
 +++
 
 Si definisca una funzione che genera una lista lunga N contenente i primi N numeri primi.

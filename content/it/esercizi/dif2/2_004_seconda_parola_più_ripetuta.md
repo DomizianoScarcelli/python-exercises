@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "2.004 - Seconda parola più ripetuta"
 categories = [ "Difficoltà 2",]
 tags = [ "liste", "stringhe",]
-date = "2024-02-25"
+date = "2024-02-14T11:09:03+01:00"
 +++
 
 Si scriva una funzione che prende una stringa in input che rappresenta un testo, e si ritorni la seconda parola più ripetuta all’interno di questo testo, ovvero non la parola che appare più volte, ma quella al “secondo posto” sul podio.

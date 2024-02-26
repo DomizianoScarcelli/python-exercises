@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "0.009 - Verifica dimensione insieme"
 categories = [ "Difficoltà 0",]
 tags = [ "insiemi",]
-date = "2024-02-13"
+date = "2024-02-13T20:45:38+01:00"
 +++
 
 Scrivere una funzione che prenda in input un insieme `ins` ed un numero `num` e che ritorni `True` se la dimensione dell’insieme `ins` è maggiore o uguale al numero `num`, e che ritorni `False` altrimenti.

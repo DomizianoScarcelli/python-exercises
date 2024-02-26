@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "1.017 - Verifica Parentesi"
 categories = [ "Difficoltà 1",]
 tags = [ "stringhe", "liste",]
-date = "2024-02-13"
+date = "2024-02-13T20:39:12+01:00"
 +++
 Scrivere una funzione che prende in input una lista formata da parentesi aperte e chiuse, e ritorna True solo se le parentesi sono inserite in maniera corretta, False altrimenti.
 
