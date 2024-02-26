@@ -4,7 +4,7 @@ Nel sito sono presenti vari esercizi in Python, divisi per difficoltà, che si t
 
 Per capire la difficoltà dell'esercizio in ogni momento, il nome segue questa convenzione:
 
-`[difficoltà]-[numero_esercizio]-[nome_esercizio]`
+`[difficoltà].[numero_esercizio] - [nome_esercizio]`
 
 # Licensa
 Il sito ed il suoi contenuti sono disponibili nella relativa repository [GitHub](https://github.com/DomizianoScarcelli/python-exercises). Tutti gli esercizi sono stati scritti da Domiziano Scarcelli, e licenziati con la licenza Creative Commons Attribution-NonCommercial ([CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.en)).

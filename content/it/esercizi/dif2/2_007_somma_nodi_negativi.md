@@ -10,12 +10,15 @@ tags = [
 ]
 +++
 
-Si implementi una funzione somma_valori, che somma tutti i valori dei nodi
-    all'interno dell'albero, solo se tale valore Ã¨ positivo.
+"""
+[Scarica qui i file necessari per risolvere l'esercizio](/assets/exercises_py/it/2_007_somma_nodi_negativi.py)
+
+    Si implementi una funzione somma_valori, che somma tutti i valori dei nodi
+    all'interno dell'albero, solo se tale valore è positivo.
 
     Esempio:
 
-    L'abero costruito da costruisci_albero_esercizio() Ã¨ il seguente:
+    L'abero costruito da costruisci_albero_esercizio() è il seguente:
               5                       
       ________|_____________         
      |          |           |       
@@ -26,14 +29,19 @@ Si implementi una funzione somma_valori, che somma tutti i valori dei nodi
             __|__              
            |     |            
            3     1           
+
     La funzione deve restituire: 5 + 2 + 11 + 4 + 2 + 7 + 3 + 1 = 35
 
 <details>
 <summary>Mostra la soluzione</summary>
 
 ```python
-def sorted_strings(s, mappatura):
-    return ''.join(sorted(s, key=lambda x: mappatura[x] if x in mappatura else 0))
+def somma_nodi(tree, somma=0):
+    if tree.valore > 0:
+        somma += tree.valore
+    for child in tree.children:
+        somma += somma_nodi(child)
+    return somma
 ```
 
 </details>
