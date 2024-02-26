@@ -1,12 +1,9 @@
 +++
 author = "Domiziano Scarcelli"
 title = "1_022 - Ridimensiona Matrice"
-categories = [
-    "Difficoltà 1",
-]
-tags = [
-    "matrici",
-]
+categories = [ "Difficoltà 1",]
+tags = [ "matrici",]
+date = "2024-02-26"
 +++
 
 Si scriva una funzione che prende in input una matrice $n \times m$ ($n$ righe, $m$ colonne) e che ritorni una lista lunga $n \cdot m$ in cui tutte le righe della matrice sono state concatenate per formare una sola lista.

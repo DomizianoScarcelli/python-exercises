@@ -1,13 +1,9 @@
 +++
 author = "Domiziano Scarcelli"
 title = "1.002 - Dizionario contatore di valori"
-categories = [
-    "Difficoltà 1",
-]
-tags = [
-    "dizionari",
-    "stringhe"
-]
+categories = [ "Difficoltà 1",]
+tags = [ "dizionari", "stringhe",]
+date = "2024-02-13"
 +++
 Si definisca una funzione che prende in input un dizionario `diz` che associa un intero ad un altro intero (sia le chiavi che i valori sono tutti interi) e ritorna un altro dizionario in cui le chiavi sono i valori presenti in `diz` ed il valore associato è le volte che tale valore appare in `diz`.
 

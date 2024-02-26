@@ -1,12 +1,9 @@
 +++
 author = "Domiziano Scarcelli"
 title = "1_023 - Numeri Divisibili"
-categories = [
-    "Difficoltà 1",
-]
-tags = [
-    "for-loops",
-]
+categories = [ "Difficoltà 1",]
+tags = [ "for-loops",]
+date = "2024-02-25"
 +++
 
 Si definisca una funzione che prenda in input una lista di numeri interi `lista_numeri` e un numero intero `divisore`, e ritorni una lista di tuple, dove ogni tupla è composta da due elementi: il primo è un numero di `lista_numeri` e il secondo è `True` se quel numero è divisibile per `divisore`, `False` altrimenti.

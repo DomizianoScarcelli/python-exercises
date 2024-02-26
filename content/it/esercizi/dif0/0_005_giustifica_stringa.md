@@ -1,13 +1,9 @@
 +++
 author = "Domiziano Scarcelli"
 title = "0.005 - Giustifica stringa"
-categories = [
-    "Difficoltà 0",
-]
-tags = [
-    "operazioni-aritmetiche",
-    "stringhe"
-]
+categories = [ "Difficoltà 0",]
+tags = [ "operazioni-aritmetiche", "stringhe",]
+date = "2024-02-13"
 +++
 
 Scrivere una funzione che presa in input una stringa, la stampi a schermo in modo che l’ultima lettera di tale stringa cada nella colonna 70 del display.

@@ -1,10 +1,14 @@
 # Esercizi in Python
 
-Nel sito sono presenti vari esercizi in Python, divisi per difficoltà, che si trovano in [./esercizi](/esercizi), mentre sono suddivisi per argomento in [./argomenti](/tags).
+Nel sito sono presenti vari esercizi in Python, divisi per difficoltà, che si trovano in [./esercizi](/esercizi), mentre sono suddivisi per argomento in [./argomenti](/tags). 
+
+È possibile anche trovare la lista di esercizi ordinata per data di pubblicazione in [./recenti](/recent).
 
 Per capire la difficoltà dell'esercizio in ogni momento, il nome segue questa convenzione:
 
 `[difficoltà].[numero_esercizio] - [nome_esercizio]`
+
+Alcuni esercizi richiedono dei file esterni, i quali saranno scaricabili all'interno dell'esercizio stesso. Il file scaricato è sempre un file .zip, quindi basterà estrarlo con un qualsiasi programma di compressione.
 
 # Licensa
 Il sito ed il suoi contenuti sono disponibili nella relativa repository [GitHub](https://github.com/DomizianoScarcelli/python-exercises). Tutti gli esercizi sono stati scritti da Domiziano Scarcelli, e licenziati con la licenza Creative Commons Attribution-NonCommercial ([CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.en)).

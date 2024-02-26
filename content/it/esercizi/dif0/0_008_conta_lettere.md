@@ -1,13 +1,9 @@
 +++
 author = "Domiziano Scarcelli"
 title = "0.008 - Conta lettere in stringa"
-categories = [
-    "Difficoltà 0",
-]
-tags = [
-    "liste",
-    "stringhe"
-]
+categories = [ "Difficoltà 0",]
+tags = [ "liste", "stringhe",]
+date = "2024-02-13"
 +++
 
 Scrivere una funzione che, presa in input una stringa `stringa` (di sole lettere minuscole) ed una lettera `let`, ritorni il numero di volte che `let` appare dentro la `stringa`.

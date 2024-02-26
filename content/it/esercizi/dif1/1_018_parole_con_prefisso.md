@@ -1,13 +1,9 @@
 +++
 author = "Domiziano Scarcelli"
 title = "1.018 - Filtra parole secondo prefisso"
-categories = [
-    "Difficoltà 1",
-]
-tags = [
-    "liste",
-    "stringhe"
-]
+categories = [ "Difficoltà 1",]
+tags = [ "liste", "stringhe",]
+date = "2024-02-13"
 +++
 
 Si scriva una funzione che prende in input una stringa `prefisso` ed una lista di stringhe `lista_parole`, e ritorni una lista contenente le parole in `lista_parole` che iniziano con `prefisso`.

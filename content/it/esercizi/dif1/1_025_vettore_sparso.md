@@ -1,13 +1,9 @@
 +++
 author = "Domiziano Scarcelli"
 title = "1.025 - Vettore Sparso"
-categories = [
-    "Difficoltà 1",
-]
-tags = [
-    "dizionari",
-    "stringhe"
-]
+categories = [ "Difficoltà 1",]
+tags = [ "dizionari", "stringhe",]
+date = "2024-02-25"
 +++
 
 Si scriva una funzione che, data una lista di numeri, ritorni un dizionario le cui chiavi sono gli indici degli elementi diversi da 0, e i cui valori sono gli elementi a tali indici.

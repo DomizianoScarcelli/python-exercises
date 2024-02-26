@@ -1,12 +1,9 @@
 +++
 author = "Domiziano Scarcelli"
 title = "0.019 - Rimpiazza carattere in stringa"
-categories = [
-    "Difficoltà 0",
-]
-tags = [
-    "stringhe",
-]
+categories = [ "Difficoltà 0",]
+tags = [ "stringhe",]
+date = "2024-02-14"
 +++
 Si definisca una funzione che prende in input una lista di stringhe ed un carattere e si ritorni la lista di stringhe in cui tutte le occorrenze di quel carattere sono state rimpiazzate dal carattere `.`.
 

@@ -1,12 +1,9 @@
 +++
 author = "Domiziano Scarcelli"
 title = "0.011 - Pulisci dizionario"
-categories = [
-    "Difficoltà 0",
-]
-tags = [
-    "dizionari",
-]
+categories = [ "Difficoltà 0",]
+tags = [ "dizionari",]
+date = "2024-02-13"
 +++
 Si scriva una funzione che prende in input un dizionario `diz` che associa ad ogni intero una lista e modifica il dizionario in-place (sul posto, ovvero senza ritornare nulla, ma il dizionario in input deve essere modificato) in cui le chiavi a cui è associata una lista vuota vengono eliminate.
 

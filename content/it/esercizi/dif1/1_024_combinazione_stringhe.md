@@ -1,12 +1,9 @@
 +++
 author = "Domiziano Scarcelli"
 title = "1.024 - Combinazione Stringhe"
-categories = [
-    "Difficoltà 1",
-]
-tags = [
-    "stringhe",
-]
+categories = [ "Difficoltà 1",]
+tags = [ "stringhe",]
+date = "2024-02-26"
 +++
 
 Si scriva una funzione che prende in input tre liste di lunghezza maggiore di 0, con all’interno delle stringhe, e si ritorni una lista di stringhe, ognuna delle quale rappresenta una combinazione dei tre elementi (uno per ogni lista in input). La lista finale deve tornare tutte le possibili combinazioni di questi elementi.

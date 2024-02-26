@@ -1,12 +1,9 @@
 +++
 author = "Domiziano Scarcelli"
 title = "0.013 - Inverti dizionario"
-categories = [
-    "Difficoltà 0",
-]
-tags = [
-    "dizionari",
-]
+categories = [ "Difficoltà 0",]
+tags = [ "dizionari",]
+date = "2024-02-13"
 +++
 
 Si definisca una funzione che prende in input un dizionario che associa ad ogni stringa un intero, e ritorna il dizionario inverso, ovvero un altro dizionario in cui le chiavi ed i valori sono inverititi (le chiavi diventano i valori e i valori diventano le chiavi).

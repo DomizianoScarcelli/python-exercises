@@ -1,13 +1,9 @@
 +++
 author = "Domiziano Scarcelli"
 title = "3.006 - Rimuovi nodo albero"
-categories = [
-    "Difficoltà 3",
-]
-tags = [
-    "alberi",
-    "ricorsione", 
-]
+categories = [ "Difficoltà 3",]
+tags = [ "alberi", "ricorsione",]
+date = "2024-02-26"
 +++
 [Scarica qui i file necessari per risolvere l'esercizio](/exercises_py/it/3_006_rimuovi_nodo.zip)
 

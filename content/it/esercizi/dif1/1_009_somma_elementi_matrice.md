@@ -1,14 +1,9 @@
 +++
 author = "Domiziano Scarcelli"
 title = "1.009 - Somma elementi matrice"
-categories = [
-    "Difficoltà 1",
-]
-tags = [
-    "liste",
-    "matrici",
-    "for-loops"
-]
+categories = [ "Difficoltà 1",]
+tags = [ "liste", "matrici", "for-loops",]
+date = "2024-02-13"
 +++
 
 Si definisca una funzione che prende in input una matrice `matrice` e che ritorna la somma di tutti gli elementi all’interno di `matrice`.

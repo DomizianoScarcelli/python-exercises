@@ -1,12 +1,9 @@
 +++
 author = "Domiziano Scarcelli"
 title = "0.016 - Funzione per stampare dizionario"
-categories = [
-    "Difficoltà 0",
-]
-tags = [
-    "dizionari",
-]
+categories = [ "Difficoltà 0",]
+tags = [ "dizionari",]
+date = "2024-02-13"
 +++
 Si definisca una funzione che preso in input un dizionario qualsiasi (ricorda che le chiavi possono essere solo stringhe o interi per ora) e stampa riga per riga la chiave ed il valore associato a tale chiave all’interno del dizionario con la seguente forma `Chiave: chiaveDizionario, Valore: valoreAssociatoAllaChiave`. La funzione non ritorna nessun valore.
 

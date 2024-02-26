@@ -1,13 +1,9 @@
 +++
 author = "Domiziano Scarcelli"
 title = "1.004 - Stampa rettangolo"
-categories = [
-    "Difficoltà 1",
-]
-tags = [
-    "insiemi",
-    "for-loops"
-]
+categories = [ "Difficoltà 1",]
+tags = [ "insiemi", "for-loops",]
+date = "2024-02-13"
 +++
 
 Si scriva un codice che riceva come input due interi `base` e `altezza` e disegni (tramite il metodo print) sullo schermo un rettangolo di dimensioni base x altezza usando il carattere `*`.

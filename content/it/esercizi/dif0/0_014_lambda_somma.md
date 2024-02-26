@@ -1,12 +1,9 @@
 +++
 author = "Domiziano Scarcelli"
 title = "0.014 - Funzione lambda somma"
-categories = [
-    "Difficoltà 0",
-]
-tags = [
-    "lambda",
-]
+categories = [ "Difficoltà 0",]
+tags = [ "lambda",]
+date = "2024-02-13"
 +++
 Si scriva una funzione lambda che ritorna la somma di due numeri.
 

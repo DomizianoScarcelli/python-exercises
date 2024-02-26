@@ -54,6 +54,8 @@ url = "https://github.com/DomizianoScarcelli/python-exercises"
     url = "/tags/"
     weight = 10
 
+
+
 [taxonomies]
 category = "categories"
 tag = "tags"

@@ -1,13 +1,9 @@
 +++
 author = "Domiziano Scarcelli"
 title = "0.006 - Somma primi n numeri"
-categories = [
-    "Difficoltà 0",
-]
-tags = [
-    "for-loops",
-    "liste"
-]
+categories = [ "Difficoltà 0",]
+tags = [ "for-loops", "liste",]
+date = "2024-02-13"
 +++
 
 Calcolare la somma dei primi `n` numeri, dove `n` è l'input della funzione. 

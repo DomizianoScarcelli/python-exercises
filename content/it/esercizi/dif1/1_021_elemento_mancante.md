@@ -1,13 +1,9 @@
 +++
 author = "Domiziano Scarcelli"
 title = "1.021 - Elemento Mancante"
-categories = [
-    "Difficoltà 1",
-]
-tags = [
-    "for-loops",
-    "liste",
-]
+categories = [ "Difficoltà 1",]
+tags = [ "for-loops", "liste",]
+date = "2024-02-25"
 +++
 
 Si scriva una funzione che presa una lista di $n$ elementi in successione, con uno o più numeri mancanti all’interno, ritorni una lista contenente i valori dei numeri mancanti, ordinati in maniera crescente.

@@ -1,12 +1,9 @@
 +++
 author = "Domiziano Scarcelli"
 title = "2.005 - Lista intercalcata"
-categories = [
-    "Difficoltà 2",
-]
-tags = [
-    "liste",
-]
+categories = [ "Difficoltà 2",]
+tags = [ "liste",]
+date = "2024-02-25"
 +++
 
 Si scriva una funzione che prenda in input due liste e ritorni una nuova lista ottenuta intercalando gli elementi delle due liste. 

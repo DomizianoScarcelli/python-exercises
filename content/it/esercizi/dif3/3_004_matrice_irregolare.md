@@ -1,13 +1,9 @@
 +++
 author = "Domiziano Scarcelli"
 title = "3.004 - Da lista di liste a matrice"
-categories = [
-    "Difficoltà 3",
-]
-tags = [
-    "stringhe",
-    "for-loops"
-]
+categories = [ "Difficoltà 3",]
+tags = [ "stringhe", "for-loops",]
+date = "2024-02-25"
 +++
 
 Si definisca una funzione che prende in input una lista di liste, quindi una “matrice irregolare” in cui **non** tutte le righe hanno la stessa lunghezza.

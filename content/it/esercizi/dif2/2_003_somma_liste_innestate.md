@@ -1,13 +1,9 @@
 +++
 author = "Domiziano Scarcelli"
 title = "2.003 - Somma liste innestate"
-categories = [
-    "Difficoltà 2",
-]
-tags = [
-    "liste",
-    "ricorsione",
-]
+categories = [ "Difficoltà 2",]
+tags = [ "liste", "ricorsione",]
+date = "2024-02-14"
 +++
 TODO: rifinisci testo
 

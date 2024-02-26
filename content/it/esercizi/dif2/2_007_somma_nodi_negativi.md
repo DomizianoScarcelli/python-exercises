@@ -1,13 +1,9 @@
 +++
 author = "Domiziano Scarcelli"
 title = "2.007 - Somma nodi negativi"
-categories = [
-    "Difficoltà 2",
-]
-tags = [
-    "alberi",
-    "ricorsione",
-]
+categories = [ "Difficoltà 2",]
+tags = [ "alberi", "ricorsione",]
+date = "2024-02-26"
 +++
 
 [Scarica qui i file necessari per risolvere l'esercizio](/exercises_py/it/2_007_somma_nodi_negativi.zip)

@@ -1,13 +1,9 @@
 +++
 author = "Domiziano Scarcelli"
 title = "0.002 - Lista dei primi n numeri"
-categories = [
-    "Difficoltà 0",
-]
-tags = [
-    "for-loops",
-    "liste"
-]
+categories = [ "Difficoltà 0",]
+tags = [ "for-loops", "liste",]
+date = "2024-02-13"
 +++
 
 Scrivere una funzione che prende in input un numero `n`, e ritorna una lista i cui elementi sono i numeri che vanno da `1` ad `n` compresi.

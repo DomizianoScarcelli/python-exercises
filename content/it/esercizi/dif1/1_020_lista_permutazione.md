@@ -1,13 +1,9 @@
 +++
 author = "Domiziano Scarcelli"
 title = "1.020 - Lista di permutazione"
-categories = [
-    "Difficoltà 1",
-]
-tags = [
-    "for-loops",
-    "liste",
-]
+categories = [ "Difficoltà 1",]
+tags = [ "for-loops", "liste",]
+date = "2024-02-14"
 +++
 
 Si definisca una funzione che prende due liste della stessa lunghezza in input, `lista` e `lista_permutazione`, e ritorni una nuova lista in maniera tale che ogni elemento nell’indice $i$ venga inserito nell’indice che si trova nella posizione $i$ nella `lista_permutazione`.

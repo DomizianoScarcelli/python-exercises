@@ -1,13 +1,9 @@
 +++
 author = "Domiziano Scarcelli"
 title = "3.003 - Intersezione tra stringhe"
-categories = [
-    "Difficoltà 3",
-]
-tags = [
-    "stringhe",
-    "for-loops"
-]
+categories = [ "Difficoltà 3",]
+tags = [ "stringhe", "for-loops",]
+date = "2024-02-25"
 +++
 
 Si definisca una funzione che prende in input due stringhe e ritorni la stringa formata dai caratteri che nella posizione $j$ appaiono in entrambe le stringhe.
