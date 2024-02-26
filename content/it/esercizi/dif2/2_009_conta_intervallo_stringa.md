@@ -27,12 +27,12 @@ La funzione ritorna 0 perchè "mar" è contenuto 2 volte tra i e j, e 2 volte fu
 <summary>Mostra la soluzione</summary>
 
 ```python
-def chiavi_dizionari(dizionario, chiavi=set()):
-    for chiave in dizionario:
-        chiavi.add(chiave)
-        if isinstance(dizionario[chiave], dict):
-            chiavi_dizionari(dizionario[chiave], chiavi)
-    return chiavi
+def conta_intervallo_stringa(stringa, i, j, substr):
+    str_range = stringa[i:j]
+    count = str_range.count(substr)
+    str_out_range = stringa[:i] + stringa[j:]
+    count -= str_out_range.count(substr)
+    return count
 ```
 
 </details>
