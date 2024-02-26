@@ -10,15 +10,15 @@ tags = [
 ]
 +++
 
-"""
-[Scarica qui i file necessari per risolvere l'esercizio](/assets/exercises_py/it/2_007_somma_nodi_negativi.py)
+[Scarica qui i file necessari per risolvere l'esercizio](/exercises_py/it/2_007_somma_nodi_negativi.zip)
 
-    Si implementi una funzione somma_valori, che somma tutti i valori dei nodi
-    all'interno dell'albero, solo se tale valore è positivo.
+Si implementi una funzione somma_valori, che somma tutti i valori dei nodi
+all'interno dell'albero, solo se tale valore è positivo.
 
-    Esempio:
+Esempio:
 
-    L'abero costruito da costruisci_albero_esercizio() è il seguente:
+L'abero costruito da costruisci_albero_esercizio() è il seguente:
+
               5                       
       ________|_____________         
      |          |           |       
@@ -30,7 +30,7 @@ tags = [
            |     |            
            3     1           
 
-    La funzione deve restituire: 5 + 2 + 11 + 4 + 2 + 7 + 3 + 1 = 35
+La funzione deve restituire: 5 + 2 + 11 + 4 + 2 + 7 + 3 + 1 = 35
 
 <details>
 <summary>Mostra la soluzione</summary>
