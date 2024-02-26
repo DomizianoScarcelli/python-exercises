@@ -3,6 +3,6 @@
 {{ range .Site.RegularPages.ByDate.Reverse }}
 <div>
 	<h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-	<p>Aggiunto il {{ .Date.Format (i18n "date_format_long") }}</p>
+	<p>Aggiunto il {{ .Date.Day }} {{ i18n (printf "month_%d" .Date.Month) }} {{ .Date.Year }}</p>
 </div>
 {{ end }} {{ end }}

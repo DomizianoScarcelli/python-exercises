@@ -1,2 +1,24 @@
-- id: date_format_long
-  translation: "2 Gennaio 2006"
+- id: month_1
+  translation: "Gennaio"
+- id: month_2
+  translation: "Febbraio"
+- id: month_3
+  translation: "Marzo"
+- id: month_4
+  translation: "Aprile"
+- id: month_5
+  translation: "Maggio"
+- id: month_6
+  translation: "Giugno"
+- id: month_7
+  translation: "Luglio"
+- id: month_8
+  translation: "Agosto"
+- id: month_9
+  translation: "Settembre"
+- id: month_10
+  translation: "Ottobre"
+- id: month_11
+  translation: "Novembre"
+- id: month_12
+  translation: "Dicembre"
