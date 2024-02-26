@@ -1,6 +1,6 @@
 +++
 author = "Domiziano Scarcelli"
-title = "3.005 - Ordina Dizionario per Somma"
+title = "3.005 - Ordina dizionario per somma"
 categories = [
     "Difficoltà 3",
 ]

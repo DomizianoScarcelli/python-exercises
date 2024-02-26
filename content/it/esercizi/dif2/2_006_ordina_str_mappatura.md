@@ -10,6 +10,7 @@ tags = [
     "dizionari"
 ]
 +++
+[Scarica QUI i file necessari per risolvere l'esercizio.](/assets/exercises_py/it/2_007_somma_nodi_negativi.py)
 
 La funzione prende in input una stringa formata dai caratteri ed una mappatura (dizionario) da caratteri ad interi.
 Si deve ritornare una copia della stringa ordinata in maniera crescente secondo il valore associato ad ogni carattere.
@@ -27,8 +28,12 @@ sorted_strings('abcdefg', mappatura)
 <summary>Mostra la soluzione</summary>
 
 ```python
-def sorted_strings(s, mappatura):
-    return ''.join(sorted(s, key=lambda x: mappatura[x] if x in mappatura else 0))
+def somma_nodi(tree, somma=0):
+    if tree.valore > 0:
+        somma += tree.valore
+    for child in tree.children:
+        somma += somma_nodi(child)
+    return somma
 ```
 
 </details>
