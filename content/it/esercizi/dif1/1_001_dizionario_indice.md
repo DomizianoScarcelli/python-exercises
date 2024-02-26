@@ -23,6 +23,11 @@ dizionario_indice(lista)
 ```
 <details>
 <summary>Mostra la soluzione</summary>
-> TODO: Da inserire
+
+```python
+#Soluzione: Alessio Lucciola
+def dizionario_indice(lista):
+    return {i : v for i, v in enumerate(lista)}
+```
 
 </details>
