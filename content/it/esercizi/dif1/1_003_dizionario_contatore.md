@@ -20,6 +20,25 @@ diz_conta_parole_da_testo(testo)
 
 <details>
 <summary>Mostra la soluzione</summary>
-> TODO: Da inserire
 
+```python
+#Soluzione: Alessio Lucciola
+def diz_conta_parole_da_testo(testo):
+    testo = testo.lower().split(" ")
+    diz_finale = {}
+    for p in testo:
+        diz_finale[p] = diz_finale.get(p, 0) + 1 # Se la parola non è presente nel dizionario, aggiungila con valore 0 e incrementa subito di 1. Altrimenti incrementa solo il contatore di 1.
+    return diz_finale
+
+# Versione alterntiva
+def diz_conta_parole_da_testo_due(testo):
+    testo = testo.lower().split(" ")
+    diz_finale = {}
+    for p in testo:
+        if p in diz_finale:
+            diz_finale[p] += 1
+        else:
+            diz_finale[p] = 1
+    return diz_finale
+```
 </details>
