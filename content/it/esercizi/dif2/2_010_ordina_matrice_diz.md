@@ -2,7 +2,7 @@
 author = "Domiziano Scarcelli"
 title = "2.010 - Ordina matrice dizionario"
 categories = [ "Difficoltà 2",]
-tags = [ "stringhe",]
+tags = [ "dizionario", "ordinamento", "lambda",]
 date = "2024-02-26T13:46:33+01:00"
 +++
 Dato in input una matrice rappresentata come una lista di liste di interi
