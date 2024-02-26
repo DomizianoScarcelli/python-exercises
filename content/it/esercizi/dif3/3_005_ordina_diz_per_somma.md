@@ -2,7 +2,7 @@
 author = "Domiziano Scarcelli"
 title = "3.005 - Ordina dizionario per somma"
 categories = [ "Difficoltà 3",]
-tags = [ "dizionario", "lambda", "ordinamento",]
+tags = [ "dizionari", "lambda", "ordinamento",]
 date = "2024-02-26"
 +++
 
