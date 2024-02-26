@@ -34,4 +34,5 @@ def matrice_zeri(base, altezza):
 def matrice_zeri_due(base, altezza):
     return [[0 for _ in range(base)] for _ in range(altezza)]
 ```
+
 </details>
