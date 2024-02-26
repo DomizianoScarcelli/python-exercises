@@ -14,13 +14,14 @@ La funzione deve ritornare il numero di volte che substr è contenuto nella stri
 
 Esempio:
 
-        stringa = "ciao mario ciao alberto ciao marco come stai ciao"
-                              ^                 ^
-                              i                 j
-        i = 10
-        j = 30
-        substr = "ciao"
-        la funzione ritorna 0 perchè "mar" è contenuto 2 volte tra i e j, e 2 volte fuori da i e j. 
+    stringa = "ciao mario ciao alberto ciao marco come stai ciao"
+                            ^                 ^
+                            i                 j
+    i = 10
+    j = 30
+    substr = "ciao"
+
+La funzione ritorna 0 perchè "mar" è contenuto 2 volte tra i e j, e 2 volte fuori da i e j. 
 
 <details>
 <summary>Mostra la soluzione</summary>
