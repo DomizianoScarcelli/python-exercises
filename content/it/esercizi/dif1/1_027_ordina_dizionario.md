@@ -3,7 +3,7 @@ author = "Domiziano Scarcelli"
 title = "1.027 - Ordina dizionario per somma di chiavi"
 categories = [ "Difficoltà 1",]
 tags = [ "dizionario", "ordinamento", "lambda",]
-date = ""
+date = "2024-02-26T14:03:09+01:00"
 +++
 Si costruisca una funzione che, dato un dizionario le cui chiavi sono interi
 e i valori altri dizionari (chiavi interi, valori interi), ritorna la lista
