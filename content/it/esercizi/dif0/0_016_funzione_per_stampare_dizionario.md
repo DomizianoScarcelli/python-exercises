@@ -25,6 +25,11 @@ stampa_dizionario(diz)
 ```
 <details>
 <summary>Mostra la soluzione</summary>
-> TODO: Da inserire
+
+```python
+def stampa_dizionario(diz):
+    for k, v in diz.items():
+        print(f"Chiave: {k}, Valore {v}")
+```
 
 </details>
